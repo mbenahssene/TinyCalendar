@@ -1,0 +1,15 @@
+.overlap{
+    color: red;
+}
+
+.conflict{
+    color: orange;
+}
+
+.dropdown{
+    display: inline;
+}
+
+.ok{
+    color: green;
+}
